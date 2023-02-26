@@ -120,11 +120,10 @@ body>nav {
     
   }
 
-  .centered {
-  position: fixed;
+    .centered {
+  position: absolute;
     top: 50%;
-    left: 50%;
-    transform: translate(70%, -140%);
+    transform: translate(20%, -40%);
     text-align: center;
   }
 
